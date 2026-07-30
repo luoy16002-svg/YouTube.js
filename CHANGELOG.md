@@ -1,5 +1,24 @@
 # Changelog
 
+## [18.0.0](https://github.com/LuanRT/YouTube.js/compare/v17.2.0...v18.0.0) (2026-07-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* **Comments.ts:** Add support for threaded comments ([#1194](https://github.com/LuanRT/YouTube.js/issues/1194))
+
+### Features
+
+* **parser:** Add ThumbnailOverlayAvatarStackView class ([#1200](https://github.com/LuanRT/YouTube.js/issues/1200)) ([14825d7](https://github.com/LuanRT/YouTube.js/commit/14825d7712e32b208830895701973a5a934a3522))
+* **parser:** Add TicketEvent and TicketShelf classes ([#1205](https://github.com/LuanRT/YouTube.js/issues/1205)) ([55cf854](https://github.com/LuanRT/YouTube.js/commit/55cf854e324b04517077ddd86ec9d6e031b7bcfe))
+
+
+### Bug Fixes
+
+* **Comments.ts:** Add support for threaded comments ([#1194](https://github.com/LuanRT/YouTube.js/issues/1194)) ([c69d19f](https://github.com/LuanRT/YouTube.js/commit/c69d19f8cbe262a31a59e2991060b904f37e5768))
+* **CommentView:** Handle undefined endpoint when applying mutations ([#1208](https://github.com/LuanRT/YouTube.js/issues/1208)) ([483c866](https://github.com/LuanRT/YouTube.js/commit/483c866606c1ddf33aece5037a623ee725d0b021))
+* **HTTPClient:** add User-Agent header override for ANDROID_VR client ([#1184](https://github.com/LuanRT/YouTube.js/issues/1184)) ([38bc0a3](https://github.com/LuanRT/YouTube.js/commit/38bc0a35d025c2005d7883353adcc08e124c9904))
+
 ## [17.2.0](https://github.com/LuanRT/YouTube.js/compare/v17.1.0...v17.2.0) (2026-06-23)
 
 
